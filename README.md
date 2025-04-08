@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-vicente-garcia-b27150254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vini1307&show_icons=true&theme=radical)
+
 
 ## Tecnologias que eu uso no meu dia a dia
 
